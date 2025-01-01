@@ -1,0 +1,16 @@
+aiohttp==3.8.0
+async-timeout==3.0.1
+attrs==21.2.0
+chardet==4.0.0
+idna==2.10
+multidict==5.1.0
+python-dotenv==0.19.2
+python-telegram-bot==13.7
+sciunit==0.2.1
+yarl==1.6.3
+aiohttp>=3.8.0
+chardet>=4.0.0
+
+pip install --upgrade python-telegram-bot urllib3
+pip install -q -U google-generativeai
+pip install python-telegram-bot aiohttp google-generativeai
