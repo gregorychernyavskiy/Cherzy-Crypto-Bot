@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger()
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyBcjNkneYkKlhKFVhOaDaxGo0LJkOAnDNM")
+genai.configure(api_key="")
 
 # Telegram bot configuration
 chat_id = 
