@@ -16,8 +16,8 @@ logger = logging.getLogger()
 genai.configure(api_key="AIzaSyBcjNkneYkKlhKFVhOaDaxGo0LJkOAnDNM")
 
 # Telegram bot configuration
-chat_id = 7349055804
-bot_token = '7855556777:AAFT57yJ77_ejAyhFZQ1--J5Tbj2k6ntgO4'
+chat_id = 
+bot_token = ''
 bot = telegram.Bot(token=bot_token)
 
 # Cryptocurrency symbols
