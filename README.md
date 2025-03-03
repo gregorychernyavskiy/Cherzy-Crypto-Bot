@@ -10,3 +10,4 @@ Cherzy Crypto Bot is a feature-rich Telegram bot designed to provide users with 
 2. **Get Recommendations**
    - Analyzes historical price data for three intervals: 7 days, 1 day, and 1 hour.
    - Provides Vitality Metrics: Market Cap, 24h Volume and Circulating Supply.
+
